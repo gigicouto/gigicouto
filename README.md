@@ -8,8 +8,6 @@ Meu nome é Giovanna Couto. Interessei-me pela área de tecnologia e atualmente 
 
 ## ⚙️Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gigicouto&repo=clone_tiktok&theme=dark)](https://github.com/gigicouto/TikTok-Project-Ebac)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigicouto&layout=compact)
 
 ## 📞Contato
