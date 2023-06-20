@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @gigicouto
-- 👀 I’m interested in Frontend career
-- 🌱 I’m currently learning HTML5 and CSS3
-- 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me https://www.linkedin.com/in/gigicouto/
+# Olá! 🖖🏻
 
-<!---
-gigicouto/gigicouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ✒️Sobre mim
+
+Meu nome é Giovanna Couto. Interessei-me pela área de tecnologia e atualmente estudo HTML, CSS e JavaScript. Meu objetivo é aprender cada vez mais.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gigicouto&show_icons=true&theme=codeSTACKr)](https://github.com/gigicouto)
+
+## ⚙️Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gigicouto&repo=clone_tiktok&theme=dark)](https://github.com/gigicouto/TikTok-Project-Ebac)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigicouto&layout=compact)
+
+## 📞Contato
+
+Se você gostaria de entrar em contato comigo, você pode me encontrar em:
+
+- 📧E-mail: giovannacouto.dev@gmail.com
+- 👔LinkedIn: https://www.linkedin.com/in/gigicouto/
+
+## Obrigada pela visita!
